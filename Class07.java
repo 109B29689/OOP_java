@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class CTest {
   int test = 2;
 
