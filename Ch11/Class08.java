@@ -23,3 +23,7 @@ public class Class08 {
     cc.show();
   }
 }
+
+/* output-
+num=5
+---------*/
