@@ -75,3 +75,13 @@ public class Class09 {
     cmp.show();
   }
 }
+
+/* output---
+ans=8
+ans=-2
+ans=15
+ans=0
+ans=4
+ans=120
+ans=125
+-----------*/
