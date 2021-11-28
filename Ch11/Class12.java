@@ -46,7 +46,7 @@ class CStu implements Test {
   }
 
   public double average() {
-    double average = (math + english) / 2;
+    double average = (math + english) / 2.0;
     return average;
   }
 
@@ -74,7 +74,7 @@ public class Class12 {
 姓名:Judy
 數學成績:58
 英文成績:91
-平均成績:74.0
+平均成績:74.5
 Judy的英文比數學好
 Judy的數學被當掉了
 --------------------*/
