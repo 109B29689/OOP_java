@@ -45,3 +45,10 @@ public class Class02 {
     cmp.show();
   }
 }
+
+/* output---
+ans=8
+ans=-2
+ans=15
+ans=0
+------------*/
