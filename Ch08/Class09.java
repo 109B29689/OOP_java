@@ -20,7 +20,7 @@ class CCalculator{
     return mul;
   }
   public double avg(){
-    double avg=(sub()/2.0);
+    double avg=(sub()/3.0);
     System.out.println("hi");
     return avg;
   }
