@@ -28,7 +28,7 @@ class CCalculator{
     System.out.println("a="+a+" b="+b+" c="+c+" add="+add()+" sub="+sub()+" mul="+mul()+" avg="+avg());
   }
 }
-class Main {  
+class Class09 {  
   public static void main(String args[]) {
     CCalculator obj=new CCalculator();
     obj.set_value(25,3,7);
@@ -36,6 +36,6 @@ class Main {
   } 
 }
 
-/*output------------------------------------
-a=25 b=3 c=7 add=35 sub=15 mul=525 avg=7.5
-------------------------------------------*/
+/*output----------------------------------------------------
+a=25 b=3 c=7 add=35 sub=15 mul=525 avg=11.666666666666666
+----------------------------------------------------------*/
