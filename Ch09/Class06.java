@@ -4,7 +4,7 @@ class Caaa{
    else System.out.println((((n-1)/2)*(n+1))+(n+1)/2);
   }
 }
-class Main {  
+class Class06 {  
   public static void main(String args[]) {
     Caaa ca1=new Caaa();
     Caaa ca2=new Caaa();
