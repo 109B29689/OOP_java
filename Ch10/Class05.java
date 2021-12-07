@@ -16,7 +16,7 @@ class Cbbb extends Caaa{
     System.out.println("num="+get());
   }
 }
-class Main {  
+class Class05 {  
   public static void main(String args[]) { 
     Cbbb bb=new Cbbb(2);
     bb.show();
