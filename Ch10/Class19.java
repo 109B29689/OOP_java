@@ -6,7 +6,7 @@ class CRectangle{
     width=w;
   }
 }
-class Main {  
+class Class19 {  
   public static void main(String args[]) { 
     CRectangle rect=new CRectangle(2,6);
     System.out.println("length="+rect.length+",width="+rect.width+",area="+rect.length*rect.width);
