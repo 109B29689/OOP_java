@@ -9,7 +9,7 @@ class Caaa{
     System.out.println("Caaa(int i)被呼叫,value="+value);
   }
 }
-class Main {  
+class Class03 {  
   public static void main(String args[]) {
     Caaa obj1=new Caaa();
     Caaa obj2=new Caaa(12);
