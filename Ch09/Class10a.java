@@ -15,7 +15,7 @@ class CRational{
     this.d=den;
   }
 }
-class Main {  
+class Class10a {  
   public static void main(String args[]) { 
     CRational aaa=new CRational();
     aaa.setN(2);
