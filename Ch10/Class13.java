@@ -45,7 +45,7 @@ public class Class13 {
     aa.show();
     Cbbb bb = new Cbbb(3, 6);
     bb.show();
-    Cbbb cb=new Cbbb();
-    cb.show();
+    bb=new Cbbb();
+    bb.show();
   }
 }
