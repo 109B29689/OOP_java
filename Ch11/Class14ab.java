@@ -23,7 +23,7 @@ class CCircle extends CSphere{
     System.out.println("球體積："+vol());
   }
 }
-class Class14 {  
+class Class14ab {  
   public static void main(String args[]) { 
     CCircle cir=new CCircle(8,6,2);
     cir.showData();
