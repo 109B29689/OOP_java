@@ -2,12 +2,12 @@ interface iVolume{
   public void showData();
   public double vol();
 }
-abstract class CShape implements iVolume{
+abstract class CSphere implements iVolume{
   final double pi=3.14;
   protected int x;
   protected int y;
 }
-class CCircle extends CShape{
+class CCircle extends CSphere{
   private int r;
   public CCircle(int X,int Y,int R){
     x=X;
