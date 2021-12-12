@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class Class02{
   public static void main(String args[]){
     Scanner sc=new Scanner(System.in);
     int num=12,den=sc.nextInt();
@@ -9,7 +9,7 @@ public class Main{
   }
 }
 
-/*output---------------
+/*output-----------
 input 0
 and of main()!!
 除數為0
@@ -17,4 +17,4 @@ and of main()!!
 input 3
 and of main()!!
 4
----------------------*/
+-----------------*/
