@@ -12,7 +12,7 @@ public class Class03{
       System.out.println("除數為0");
       System.out.println(e);
     }
-    finally{                                       //必會執行的程式
+    finally{                                       //必會執行的程式(在此題可以省略finally，依然能正常執行)
       System.out.println("當den=0時，導致num除以0就會出現以下錯誤:java.lang.ArithmeticException");  // e等於java.lang.ArithmeticException這串錯誤訊息
     }
   }
