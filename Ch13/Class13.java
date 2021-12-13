@@ -15,4 +15,10 @@ public class Class13{
 	}
 }
 
-/*output-----
+/*output-----------------
+input 520
+這是由字串520所引起的例外
+
+input hello
+hello
+-----------------------*/
