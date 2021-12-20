@@ -10,3 +10,8 @@ public class Class03 {
         System.out.println(j);
     }
 }
+
+/*output---
+input 27
+378
+---------*/
