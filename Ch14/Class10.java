@@ -42,7 +42,7 @@ public class Class10.java{
       }
       total+=b;
     }
-    System.out.printf("平均值 = %f%n最大值 = %f%n最小值 = %f%n",total/1000,A[999],A[0]);
+    System.out.printf("平均值 = %.14f%n最大值 = %.14f%n最小值 = %.14f%n",total/1000,A[999],A[0]);
     for(int i=0;i<k;i++)
     {
       bw2.write(Double.toString(A[i]));
@@ -55,7 +55,7 @@ public class Class10.java{
 }
 
 /*output----------------
-平均值 = 51322.507535
-最大值 = 99809.687064
-最小值 = 209.245732
+均值 = 48980.08224934163000
+最大值 = 99817.60441910874000
+最小值 = 247.85068957893230
 ----------------------*/
