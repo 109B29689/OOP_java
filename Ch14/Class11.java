@@ -7,7 +7,7 @@ public class Class11 {
     byte fisb[] = new byte[fisa];
     int fisr = fis.read(fisb);
     String fiss = new String(fisb, 0, fisr);
-    System.out.println(fiss);
+    System.out.println(fiss.toCharArray());
     fis.close();
   }
 }
