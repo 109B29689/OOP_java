@@ -10,8 +10,8 @@ public class Class10.java{
     }
     bw.flush();
     fw.close();
-    FileReader fr=new FileReader("rand.txt");
-    FileWriter fw2=new FileWriter("rand2.txt");
+    FileReader fr=new FileReader("Ch14\\rand.txt");
+    FileWriter fw2=new FileWriter("Ch14\\rand2.txt");
     BufferedWriter bw2=new BufferedWriter(fw2);
     BufferedReader br=new BufferedReader(fr);
     int k=0;
