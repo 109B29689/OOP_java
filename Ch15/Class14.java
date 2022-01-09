@@ -14,7 +14,7 @@ class PrePaid extends Thread
   {
     for(int i=0;i<3;i++)
     {
-      int fee=((int)(100*Math.random()));
+      int fee=((int)(99*Math.random()));
       if(sum>10)
         talk(fee);
     }
